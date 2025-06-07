@@ -67,15 +67,16 @@ Gunakan Python + BeautifulSoup atau Scrapy. Contoh untuk DSpace:
       for item in items:
           title = item.get_text(strip=True)
           link = 'https://dspace.uii.ac.id' + item.find('a')['href']
-          print(f"Judul: {title} \nLink: {link}\n")```
+          print(f"Judul: {title} \nLink: {link}\n")
+```
 
 
 
 
-Untuk **EPrints UNAIR**, target div atau table dengan class ep\_summary\_content.
+**Note:** Untuk **EPrints UNAIR**, target div atau table dengan class ep\_summary\_content.
 
 
-⚠️ Gunakan headers dan sleep() untuk menghindari pemblokiran oleh firewall.
+**Note:** ⚠️ Gunakan headers dan sleep() untuk menghindari pemblokiran oleh firewall.
 
 
 
