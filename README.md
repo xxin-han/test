@@ -73,7 +73,7 @@ Gunakan Python + BeautifulSoup atau Scrapy. Contoh untuk DSpace:
 
 
 
-**Note:** Untuk **EPrints UNAIR**, target div atau table dengan class ep\_summary\_content.
+ Untuk **EPrints UNAIR**, target div atau table dengan class ep\_summary\_content.
 
 
 **Note:** ⚠️ Gunakan headers dan sleep() untuk menghindari pemblokiran oleh firewall.
