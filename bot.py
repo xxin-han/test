@@ -429,8 +429,8 @@ class Dawn:
 
 
     async def send_keepalive(self, app_id: str, email: str, token: str, use_proxy: bool, proxy=None, retries=5):
-        url = f"{self.BASE_API}/chromeapi/dawn/v1/userreward/keepalive?appid={app_id}"
-        data = json.dumps({"username": email, "extensionid": "knnliglhgkmlblppdejchidfihjnockl", "numberoftabs": 0, "_v": "1.1.1"})
+        url = f"{self.BASE_API}/v1/me={app_id}"
+        data = json.dumps({"username": email, "extensionid": "knnliglhgkmlblppdejchidfihjnock", "numberoftabs": 0, "_v": "1.1.1"})
         headers = {
             **self.headers,
             "Authorization": f"Bearer {token}",
