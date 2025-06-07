@@ -3,25 +3,25 @@
 **🔹 Platform: DSpace**
 
 - **Alamat Akses**: <https://dspace.uii.ac.id>
-- **Deskripsi**: UII menggunakan DSpace sebagai platform untuk mengelola dan mendistribusikan karya ilmiah digital, termasuk skripsi, tugas akhir, laporan, dan makalah ilmiah. [library.uii.ac.id](https://library.uii.ac.id/panduan-akses-repositori-uii-rac-uii/?utm_source=chatgpt.com)
+- **Deskripsi**: UII menggunakan DSpace sebagai platform untuk mengelola dan mendistribusikan karya ilmiah digital, termasuk skripsi, tugas akhir, laporan, dan makalah ilmiah.
 - **Fitur Utama**:
   - **Akses Terbuka**: Pengguna dapat mengakses dan mengunduh dokumen tanpa perlu login.
   - **Mode Akses**:
     - **Browse**: Menelusuri koleksi berdasarkan kategori.
     - **Search**: Mencari dokumen berdasarkan kata kunci.
-  - **Integrasi**: Mendukung protokol OAI-PMH untuk interoperabilitas dengan sistem lain.[vokasi.unair.ac.id](https://vokasi.unair.ac.id/eprints-aplikasi-open-source-untuk-membangun-perpustakaan-berbasis-digital/?utm_source=chatgpt.com)
-- **Pengembangan dan Pelatihan**: UII secara aktif mengadakan pelatihan bagi petugas perpustakaan dalam penggunaan DSpace dan integrasinya dengan alat cek plagiarisme seperti Turnitin. [library.uii.ac.id+1library.uii.ac.id+1](https://library.uii.ac.id/pelatihan-check-for-plagiarism-turnitin-dan-upload-mandiri-ke-dspace-repository-untuk-petugas-direktorat-perpustakaan-uii/?utm_source=chatgpt.com)
+  - **Integrasi**: Mendukung protokol OAI-PMH untuk interoperabilitas dengan sistem lain.
+- **Pengembangan dan Pelatihan**: UII secara aktif mengadakan pelatihan bagi petugas perpustakaan dalam penggunaan DSpace dan integrasinya dengan alat cek plagiarisme seperti Turnitin. 
 -----
 **🏛️ Universitas Airlangga (UNAIR) – EPrints**
 
 **🔹 Platform: EPrints**
 
 - **Alamat Akses**: <https://repository.unair.ac.id>
-- **Deskripsi**: UNAIR menggunakan EPrints sebagai platform open-source untuk membangun repository digital yang memungkinkan pengelolaan dan publikasi karya ilmiah seperti jurnal, artikel, tesis, dan disertasi. [vokasi.unair.ac.id](https://vokasi.unair.ac.id/eprints-aplikasi-open-source-untuk-membangun-perpustakaan-berbasis-digital/?utm_source=chatgpt.com)
+- **Deskripsi**: UNAIR menggunakan EPrints sebagai platform open-source untuk membangun repository digital yang memungkinkan pengelolaan dan publikasi karya ilmiah seperti jurnal, artikel, tesis, dan disertasi. 
 - **Fitur Utama**:
   - **Akses Terbuka**: Koleksi sebelum tahun 2007 dapat diakses secara bebas, sementara koleksi dari tahun 2008 ke atas memerlukan persetujuan dari fakultas terkait. 
   - **Unggah Mandiri**: Mahasiswa dapat mengunggah karya ilmiahnya secara mandiri melalui sistem AILIS for Education. 
-  - **Integrasi**: Mendukung protokol OAI-PMH dan dapat terindeks oleh Google Scholar, meningkatkan visibilitas karya ilmiah.[lib.unair.ac.id](https://lib.unair.ac.id/wplib/2023/02/20/library-class-unggah-mandiri-repository-2/?utm_source=chatgpt.com)[library.uii.ac.id+2vokasi.unair.ac.id+2researchgate.net+2](https://vokasi.unair.ac.id/eprints-aplikasi-open-source-untuk-membangun-perpustakaan-berbasis-digital/?utm_source=chatgpt.com)
+  - **Integrasi**: Mendukung protokol OAI-PMH dan dapat terindeks oleh Google Scholar, meningkatkan visibilitas karya ilmiah.
 - **Pengembangan dan Pelatihan**: UNAIR menyediakan kelas "Unggah Mandiri Repository" untuk membimbing mahasiswa dalam mengunggah karya ilmiah sesuai format yang ditentukan.
 
 📊 Tabel Perbandingan DSpace (UII) vs EPrints (UNAIR)
