@@ -151,7 +151,7 @@ class Dawn:
             "Sec-Fetch-Site": "cross-site",
             "User-Agent": FakeUserAgent().random
         }
-        self.BASE_API = "https://ext-api.dawninternet.com"
+        self.BASE_API = "https://app-api.jp.stork-oracle.network"
         self.proxies = []
         self.proxy_index = 0
         self.account_proxies = {}
@@ -430,7 +430,7 @@ class Dawn:
 
     async def send_keepalive(self, app_id: str, email: str, token: str, use_proxy: bool, proxy=None, retries=5):
         url = f"{self.BASE_API}/chromeapi/dawn/v1/userreward/keepalive?appid={app_id}"
-        data = json.dumps({"username": email, "extensionid": "fpdkjdnhkakefebpekbdhillbhonfjjp", "numberoftabs": 0, "_v": "1.1.6"})
+        data = json.dumps({"username": email, "extensionid": "knnliglhgkmlblppdejchidfihjnockl", "numberoftabs": 0, "_v": "1.1.1"})
         headers = {
             **self.headers,
             "Authorization": f"Bearer {token}",
